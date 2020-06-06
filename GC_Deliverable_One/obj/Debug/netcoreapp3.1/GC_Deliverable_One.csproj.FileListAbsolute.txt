@@ -1,0 +1,12 @@
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\bin\Debug\netcoreapp3.1\GC_Deliverable_One.exe
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\bin\Debug\netcoreapp3.1\GC_Deliverable_One.deps.json
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\bin\Debug\netcoreapp3.1\GC_Deliverable_One.runtimeconfig.json
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\bin\Debug\netcoreapp3.1\GC_Deliverable_One.runtimeconfig.dev.json
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\bin\Debug\netcoreapp3.1\GC_Deliverable_One.dll
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\bin\Debug\netcoreapp3.1\GC_Deliverable_One.pdb
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\obj\Debug\netcoreapp3.1\GC_Deliverable_One.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\obj\Debug\netcoreapp3.1\GC_Deliverable_One.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\obj\Debug\netcoreapp3.1\GC_Deliverable_One.AssemblyInfo.cs
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\obj\Debug\netcoreapp3.1\GC_Deliverable_One.dll
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\obj\Debug\netcoreapp3.1\GC_Deliverable_One.pdb
+C:\Users\Elizabeth\source\repos\GC_Deliverable_One\GC_Deliverable_One\obj\Debug\netcoreapp3.1\GC_Deliverable_One.genruntimeconfig.cache
